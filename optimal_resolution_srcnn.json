@@ -1,0 +1,58 @@
+[
+  {
+    "resolution": 512,
+    "best_psnr": 49.07633563029446,
+    "best_ssim": 0.9998584653820308,
+    "params": 57281,
+    "model_type": "srcnn"
+  },
+  {
+    "resolution": 448,
+    "best_psnr": 47.505445239612044,
+    "best_ssim": 0.9997581136541507,
+    "params": 57281,
+    "model_type": "srcnn"
+  },
+  {
+    "resolution": 384,
+    "best_psnr": 47.25207102044082,
+    "best_ssim": 0.999743873397024,
+    "params": 57281,
+    "model_type": "srcnn"
+  },
+  {
+    "resolution": 320,
+    "best_psnr": 46.059684012963224,
+    "best_ssim": 0.9996399751326707,
+    "params": 57281,
+    "model_type": "srcnn"
+  },
+  {
+    "resolution": 192,
+    "best_psnr": 43.95468400492351,
+    "best_ssim": 0.9995301902551892,
+    "params": 57281,
+    "model_type": "srcnn"
+  },
+  {
+    "resolution": 256,
+    "best_psnr": 42.1326930094137,
+    "best_ssim": 0.999207933055502,
+    "params": 57281,
+    "model_type": "srcnn"
+  },
+  {
+    "resolution": 128,
+    "best_psnr": 40.43557751170101,
+    "best_ssim": 0.9990545057544955,
+    "params": 57281,
+    "model_type": "srcnn"
+  },
+  {
+    "resolution": 64,
+    "best_psnr": 37.72160019206893,
+    "best_ssim": 0.9979958692780456,
+    "params": 57281,
+    "model_type": "srcnn"
+  }
+]
